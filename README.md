@@ -36,6 +36,3 @@ HTML5
 
 CSS3
 
-📷 Capturas de Tela (opcional)
-
-![Página Inicial](index.png)
