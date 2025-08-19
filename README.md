@@ -1,38 +1,39 @@
-🍕 Site da Pizzaria – Projeto Acadêmico
+# 🍕 Site da Pizzaria — Projeto Acadêmico
 
-Este é um projeto de site desenvolvido como trabalho de faculdade, utilizando apenas HTML5 e CSS3. O site simula a presença online de uma pizzaria, com páginas funcionais que representam um layout básico de navegação e apresentação de serviços.
+Este é um projeto de site desenvolvido como trabalho de faculdade, utilizando apenas **HTML5** e **CSS3**, sem JavaScript. O site simula a presença online de uma pizzaria, com páginas básicas para navegação, cadastro de usuários e interação com clientes.
 
-📁 Estrutura de Páginas
+## 📄 Páginas do Site
 
-O site é composto pelas seguintes páginas:
+* **index.html** — Página inicial com destaque para o cardápio e chamada para promoções.
+* **login.html** — Tela de login para usuários já cadastrados.
+* **cadastro.html** — Tela de cadastro para novos usuários.
+* **promocoes.html** — Página com as promoções atuais da pizzaria.
+* **sac.html** — Página de contato e suporte ao cliente (Serviço de Atendimento ao Cliente).
+* **senha.html** — Página para recuperação ou alteração de senha.
 
-index.html – Página inicial com apresentação da pizzaria.
+## 🎯 Objetivo do Projeto
 
-login.html – Tela de login para usuários.
+O objetivo foi aplicar os conhecimentos de estruturação de páginas com HTML e estilização com CSS, simulando um site funcional de pizzaria. Este projeto foca principalmente na parte visual (front-end) e na organização de conteúdo.
 
-cadastro.html – Página de cadastro de novos clientes.
+## 💻 Tecnologias Utilizadas
 
-promocoes.html – Página com promoções e ofertas especiais.
+* **HTML5**
+* **CSS3**
 
-sac.html – Página de atendimento ao cliente (Serviço de Atendimento ao Consumidor).
+## 📁 Como Visualizar o Projeto
 
-senha.html – Página para recuperação de senha.
+1. Faça o download ou clone este repositório:
 
-🎯 Objetivo do Projeto
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
 
-O objetivo principal deste projeto foi aplicar os conceitos básicos de HTML e CSS na criação de um site estático, com foco em:
+2. Abra o arquivo `index.html` no seu navegador para iniciar a navegação.
 
-Estruturação semântica de páginas HTML.
+> 💡 Você pode navegar entre as páginas utilizando os links internos do próprio site.
 
-Aplicação de estilos com CSS.
+Este site é apenas um protótipo acadêmico e **não possui funcionalidades dinâmicas ou integração com banco de dados**.
 
-Navegação entre páginas via links.
 
-Layout simples e responsivo (caso aplicável).
-
-🛠️ Tecnologias Utilizadas
-
-HTML5
-
-CSS3
+Se quiser, posso adaptar esse conteúdo para o inglês ou gerar uma versão com instruções específicas para GitHub. Deseja isso?
 
