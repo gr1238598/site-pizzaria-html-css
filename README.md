@@ -20,20 +20,3 @@ O objetivo foi aplicar os conhecimentos de estruturação de páginas com HTML e
 * **HTML5**
 * **CSS3**
 
-## 📁 Como Visualizar o Projeto
-
-1. Faça o download ou clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-
-2. Abra o arquivo `index.html` no seu navegador para iniciar a navegação.
-
-> 💡 Você pode navegar entre as páginas utilizando os links internos do próprio site.
-
-Este site é apenas um protótipo acadêmico e **não possui funcionalidades dinâmicas ou integração com banco de dados**.
-
-
-Se quiser, posso adaptar esse conteúdo para o inglês ou gerar uma versão com instruções específicas para GitHub. Deseja isso?
-
